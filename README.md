@@ -67,6 +67,7 @@ model.pkl
 scaler.pkl
 
 📁 Project Structure
+
 Copy
 Edit
 .
@@ -77,11 +78,14 @@ Edit
 └── README.md
 
 ✨ Screenshots 
+
 <img width="1066" height="559" alt="app2" src="https://github.com/user-attachments/assets/4c7394ef-b4ff-433e-a259-79e1bec0a33e" />
 
 
 🤝 Contributing
+
 Pull requests are welcome! Feel free to fork the repo and improve the UI, model, or logic.
 
 📝 License
+
 This project is open-source and available under the MIT License.
